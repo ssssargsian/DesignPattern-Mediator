@@ -36,3 +36,4 @@ struct Person {
 }
 let person = Person()
 person.checkBMR(calculator: BMRCalculatorAdapter(adaptee: BMRCalculator()))
+
